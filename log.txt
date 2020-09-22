@@ -1,0 +1,74 @@
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(1): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(12): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(20): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(20): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(27): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020  At /main.gs
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(1): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(12): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(20): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(20): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(22): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(24): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: syntax error.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(26): error C1999: Illegal statement.
+[2;37;0m
+Tue Sep 22 12:54:19 2020 [1;31md:/git-me/Edit_Backog_Hour/main.gs(27): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Sep 22 12:54:19 2020  At /main.gs
