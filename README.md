@@ -5,8 +5,8 @@ GAS × Chatwork  × Backlog
 
 
 例如：<br>
-A-1 //案件名<br>
 [予定時間入力]:10 //預估工數<br>
+A-1 //案件名<br>
 
 從backlog 查 案件名 跟 預估工數<br>
 如果 null 或者 “10” 以外的data的話<br>
